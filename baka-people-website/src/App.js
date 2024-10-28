@@ -5,7 +5,7 @@ import Culture from './components/Culture';
 import Languages from './components/Languages';
 import Food from './components/Food';
 import Religion from './components/Religion';
-
+import './index.css';  // Or './styles.css'
 function App() {
   return (
     <Router>
